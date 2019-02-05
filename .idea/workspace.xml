@@ -31,13 +31,13 @@
         <counts>
           <entry key="env" value="14" />
           <entry key="html" value="27" />
-          <entry key="php" value="4465" />
+          <entry key="php" value="4466" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key=".env file" value="14" />
-          <entry key="Blade" value="2372" />
+          <entry key="Blade" value="2373" />
           <entry key="HTML" value="27" />
           <entry key="PHP" value="2093" />
         </counts>
@@ -76,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/inc/topbar.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="288">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -449,12 +449,12 @@
       <workItem from="1549295498457" duration="10367000" />
       <workItem from="1549336264076" duration="7875000" />
       <workItem from="1549346872759" duration="1390000" />
-      <workItem from="1549374754943" duration="13808000" />
+      <workItem from="1549374754943" duration="15243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33440000" />
+    <option name="totallyTimeSpent" value="34875000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,7 +466,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -723,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/inc/topbar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="288">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
