@@ -7,8 +7,9 @@
     <br>
     <a class="button primary" href="/albums/{{$photo->album_id}}">Go Back to Album</a>
     <br>
-    <img src="/storage/photos/{{$photo->album_id}}/{{$photo->photo}}" alt="{{$photo->title}}">
-
+    <center>
+        <img src="/storage/photos/{{$photo->album_id}}/{{$photo->photo}}" alt="{{$photo->title}}">
+    </center>
     <br>    <br>
 
     {!! Form::open(['action' => ['PhotosController@destroy',$photo->id],'method'=>'POST'])!!}
